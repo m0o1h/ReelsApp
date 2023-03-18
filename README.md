@@ -1,4 +1,4 @@
-��#� �R�e�e�l�s�A�p�p�
+��# ReelsApp�
 �
 �
 > Short blurb about what your product does.
@@ -21,9 +21,7 @@ npm install -g
 ## Usage example
 
 
-
-https://user-images.githubusercontent.com/89120598/223938711-4e9c8f8e-6f1d-46db-ae1b-23de6cf8d560.mp4
-
+https://user-images.githubusercontent.com/89120598/226119648-02d8808e-c271-4171-8c2b-66260fb151d1.mp4
 
 
 
